@@ -4,4 +4,5 @@ b=20
 print(a)
 print(a+b)
 print("please")
+c=79
 
